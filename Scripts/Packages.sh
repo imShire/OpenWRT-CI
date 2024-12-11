@@ -34,7 +34,7 @@ UPDATE_PACKAGE "alist" "sbwml/luci-app-alist" "main"
 UPDATE_PACKAGE "mosdns" "sbwml/luci-app-mosdns" "v5"
 UPDATE_PACKAGE "vnt" "lazyoop/networking-artifact" "main" "pkg"
 UPDATE_PACKAGE "easytier" "lazyoop/networking-artifact" "main" "pkg"
-UPDATE_PACKAGE "adguardhome" "xiaoxiao29/luci-app-adguardhome" "master"
+#UPDATE_PACKAGE "adguardhome" "xiaoxiao29/luci-app-adguardhome" "master"
 
 UPDATE_PACKAGE "luci-app-advancedplus" "VIKINGYFY/packages" "main" "pkg"
 UPDATE_PACKAGE "luci-app-gecoosac" "lwb1978/openwrt-gecoosac" "main"
