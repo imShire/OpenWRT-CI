@@ -1,0 +1,10 @@
+#JDCLOUD_RE-CS-01 亚瑟 WI-FI
+CONFIG_TARGET_qualcommax=y
+CONFIG_TARGET_qualcommax_ipq60xx=y
+#设备列表
+CONFIG_TARGET_DEVICE_qualcommax_ipq60xx_DEVICE_jdcloud_re-ss-01=y
+
+#插件调整
+#CONFIG_PACKAGE_luci-app-mosdns=y
+CONFIG_PACKAGE_luci-app-frpc=y
+CONFIG_PACKAGE_luci-app-ddns-go=y
